@@ -18,7 +18,7 @@
 - Software Engineer (Internship)
   - At: RiderDash
   - Term: Jun 2020 - now
-  - Location: Seoul, South Korea
+  - Location: Samseong-dong, Seoul, South Korea
 - Research Assistant
   - At: Kookmin University Information Security Lab
   - Term: Jun 2019 - Jun 2020
