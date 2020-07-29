@@ -34,10 +34,6 @@
 
 - Current Overall GPA 4.47 / 4.5 (~ 2020 spring semester)
     - Major GPA 4.5 / 4.5
-- KMU Information Security Lab intern (2019 Summer semester ~ now)
-    - Similarity hashing methods (LSH, simhash)
-    - Aging Bloom filter
-    - NetFlow
 - 2020  Google Code Jam Round 2 Qualifier
     - Google Code Jam Round 2 Qualified on Round 1A
     - Round 2 2020: 1,980th / 4,500
