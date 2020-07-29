@@ -30,7 +30,7 @@
   - Location: San Francisco Bay Area
   - What I did: Made social web app using React.js, and Apollo + GraphQL
 
-#### Activities / Honors ans Awards
+#### Activities / Honors and Awards
 
 - Current Overall GPA 4.47 / 4.5 (~ 2020 spring semester)
     - Major GPA 4.5 / 4.5
