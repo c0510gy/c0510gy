@@ -1,5 +1,42 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0510gy&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://c0510gy.github.io/)](https://c0510gy.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sang-geon-yun/)](https://www.linkedin.com/in/sang-geon-yun/)
+[![BOJ Badge](https://img.shields.io/badge/BOJ-0076c0?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAACQAAAAAQAAAJAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAACKgAwAEAAAAAQAAACIAAAAA0PcZ9QAAAAlwSFlzAAAWJQAAFiUBSVIk8AAABM5JREFUWAntVltMXFUUXfMehoHClPcb0wIdnrYIPmiLVNS2WqsmJlqLojXRamy0UeOfTT%2B0fpRoNNXQH40RjWACiVqxPmpTamlBCBSRx0CV1jLDcxgY5sHgPkfv7dyZC04%2FiP1gTybnnnP2OWfdtfde5yoWyXADmPIGwMAhrAIJjMQqIyEzYp12Yt97P6Lu5z4s%2BFa%2BsJYMzeBfU7DQ32TUQ6VUBL6ApM8UgIH1VwJhzBeiOqglO%2Fp1zvZeRcyaMNyUEOk3Gvw45%2FLg89MD0KiVqChIQZIpnDu5PAuoO90PvVqFchpPjDYEL%2FYbWZKRc32jfHFqrNHPXfo44%2FTgSEM7Pvy2G7PzHkSEaUQHDQEI06px%2FGQPamneZneKc3IPsoxMOObxh82BrXkp0GtkXeB0eVHT1IGmc0N45p5cVFXk8IOFQ1g4HyjNhHfBhw9OdEOjUuLAriIYdPL7yY6e6rpMVKtQkBEt7CtpnW4v3v%2B6C42%2FWPDktg3YvyNfMi90GCOPlK2Hg5irbe6GVqPCwd03C9OSVhbId50jRLMa5tS1EmfWsc%2B58empPnx1YRh778zG%2Fp3yIISFWsqdqopszBKD9Wf6oVIo8FSlGZEGreDC2yAg7KC2AStuz0mAKUIvcXZ7Fygx%2B%2FHFmQHsKE7HExUbOOUSJ5mOQafBs%2FfmglXQRz%2F0QkFgqrblIDpcJ3oHAem%2BNA7Pohq3ZSeITuzBQ7E%2B3tyDhpYBVBaloZpCEm28tpHEWaYTrtfgue150GtVxMwggQHPq6h%2FwQQBOT9gIz1YQGl2vLidx%2BvDsW%2B68clPvdhVksmTc20AW6LzMg9GAvP0XWYooUB9yyAv%2BT3l2YgM00IChIlSh8WK%2BEgd0uOu6Udt80XKi17csi4Orz60kSfdMuctO8WqhuWW0%2B3hDEcQiEe3ZBE4P7OMTmPM7iJhSvIbBUqy4hEVrseFQRt%2BG5kkxiTT190ZGZ9FCwlmAomcOdUEJcVJAqTn0gQc825UFqZJNi8mJg7tKSG51%2BGNula09o9yfZA4hdj5%2FfIUDn%2FWCtDLvPbwJhRmxvB8EYGwjGZvqyP9yM8ILtvSrAQcfvxWqFUKHG3sQLvFBq%2FPF%2BLx%2F7j9ahnD6x%2Bf5Sr8PJV9mTlRvMdEIOP2eQxbZ2BOM9Fh4rDkIMbMS6SOLDY1jZ3oGh5nLxaSnSdJONLQhjG61V%2FeXYTy%2FBQeEmGxeOKfYw5cmZhF8bpYYU62Zfnywn0FcHm8eLO%2BDcOjdlk%2F%2F8HOoTG829QJ6%2FQcavZtxmZzksiE4OcHZAZTdMcUZCwPhLHFNjpwfyEmZuZR%2Fc73mKR1S9kQAX37y3aw9mh1GTbRi6pkGOdA2M3Zf2UKyTFGRBml0rvUAVvzknHwQXZvLGJvzUmw75fAamIsv0WsXZ2cw6HHSpBPibmUcSBTsy4CMo1cKiVW16Ha9o3peIV0hdmxExd5aIW1c3S3MCW2UU68SOxtyU0OCofgy1ouaONE8bDVzqWbSfH12M7iDMSuMfBKcJMCC%2BZwunEHhZApcX6GiauoMCfXqlnZsoRT0I99BKn%2F47NQbpOS9XFBw3FRBtxdtPxXmf8ipY9knalpaU4iUilH%2Fi9T0EduqFKwohjF8l3RU0LYfBVIIEmrjAQy8jesLK3zkOj8kQAAAABJRU5ErkJggg%3D%3D&link=http://boj.kr/u/ggj06281)](http://boj.kr/u/ggj06281)
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-AA00AA?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/c0510gy)](https://codeforces.com/profile/c0510gy)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCanu9Jk86eTv8OE_7TjSElg)](https://www.youtube.com/channel/UCanu9Jk86eTv8OE_7TjSElg)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=c0510gy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=Apollo%20GraphQL)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Wolfram Mathematica](https://img.shields.io/badge/-Wolfram%20Mathematica-DD1100?style=flat-square&logo=Wolfram%20Mathematica)
+![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?style=flat-square&logo=Wolfram)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery)
+![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C%20Sharp)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
+![LaTex](https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=LaTex)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)
+
 #### Basic info
 
 - B.S. degree expected in Computer Science
