@@ -36,6 +36,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)
+![GitKraken](https://img.shields.io/badge/-GitKraken-black?style=flat-square&logo=GitKraken)
+![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?style=flat-square&logo=arXiv)
+![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=Codeforces)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
+
 
 #### Basic info
 
