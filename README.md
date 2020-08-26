@@ -1,4 +1,5 @@
 ### Hi there 👋
+**I LOVE solving challenging problems!**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0510gy&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://c0510gy.github.io/)](https://c0510gy.github.io/)
@@ -63,6 +64,9 @@
   - At: RiderDash
   - Term: Jun 2020 - now
   - Location: Samseong-dong, Seoul, South Korea
+  - What I did:
+    - Web development: Used TypeScript, React.js, Redux.js, Apollo + GraphQL
+    - Research project: Improvement of the image recognition system for car number & VIN (Vehicle Identification Number) from a given document or car image.
 - Research Assistant
   - At: Kookmin University Information Security Lab
   - Term: Jun 2019 - Jun 2020
