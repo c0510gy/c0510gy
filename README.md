@@ -34,6 +34,8 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=LaTex)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)
