@@ -31,6 +31,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery)
 ![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C%20Sharp)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
 ![LaTex](https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=LaTex)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
