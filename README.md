@@ -83,7 +83,7 @@
 
 #### Activities / Honors and Awards
 
-- Current Overall GPA 4.47 / 4.5 (~ 2020 spring semester)
+- Current Overall GPA 4.48 / 4.5 (~ 2020 fall semester)
     - Major GPA 4.5 / 4.5
 - 2020  ICPC Seoul Regional Preliminary Contest 33rd place
     - 365 teams participated nationwide
