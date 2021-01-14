@@ -8,8 +8,7 @@
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-AA00AA?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/c0510gy)](https://codeforces.com/profile/c0510gy)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCanu9Jk86eTv8OE_7TjSElg)](https://www.youtube.com/channel/UCanu9Jk86eTv8OE_7TjSElg)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggj06281)](https://solved.ac/ggj06281)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggj06281)](https://solved.ac/ggj06281)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=c0510gy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -70,6 +69,8 @@
   - At: RiderDash
   - Term: Jun 2020 - now
   - Location: Samseong-dong, Seoul, South Korea
+  - What I'm doing:
+    - Developing chatbot
   - What I did:
     - Web development: Used TypeScript, React.js, Redux.js, Apollo + GraphQL
     - Research project: Improvement of the image recognition system for car number & VIN (Vehicle Identification Number) from a given document or car image.
