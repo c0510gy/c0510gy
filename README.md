@@ -8,6 +8,9 @@
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-AA00AA?style=flat-square&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/c0510gy)](https://codeforces.com/profile/c0510gy)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCanu9Jk86eTv8OE_7TjSElg)](https://www.youtube.com/channel/UCanu9Jk86eTv8OE_7TjSElg)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggj06281)](https://solved.ac/ggj06281)
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=c0510gy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
