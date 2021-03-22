@@ -90,7 +90,7 @@
 - Current Overall GPA 4.48 / 4.5 (~ 2020 fall semester)
     - Major GPA 4.5 / 4.5
 - 2020  ACM-ICPC Asia Seoul Regional Contest 15th place
-    - 365 teams participated, only 60 teams advanced to Regional Contest.
+    - 365 teams participated nationwide, only 60 teams advanced to Regional Contest.
 - 2020  ICPC Seoul Regional Preliminary Contest 33rd place
     - 365 teams participated nationwide
     - 1st place among teams from Kookmin Univ. (11 teams participated from Kookmin University)
@@ -106,7 +106,7 @@
 place among teams from Kookmin Univ.
     - 60 teams participated from Kookmin University
 - 2019	ACM-ICPC Asia Seoul Regional Contest 18th place
-    - 698 teams participated, only 86 teams advanced to Regional Contest.
+    - 698 teams participated nationwide, only 86 teams advanced to Regional Contest.
 - 2019	Google Code Jam Round 2 Qualifier
     - Google Code Jam Round 2 Qualified on Round 1A
     - Over 31,000 people participated on 2019 Google Code Jam worldwide, only 4,500 people advanced to Round 2
