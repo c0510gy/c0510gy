@@ -89,6 +89,8 @@
 
 - Current Overall GPA 4.48 / 4.5 (~ 2020 fall semester)
     - Major GPA 4.5 / 4.5
+- 2020  ACM-ICPC Asia Seoul Regional Contest 15th place
+    - 365 teams participated, only 60 teams advanced to Regional Contest.
 - 2020  ICPC Seoul Regional Preliminary Contest 33rd place
     - 365 teams participated nationwide
     - 1st place among teams from Kookmin Univ. (11 teams participated from Kookmin University)
