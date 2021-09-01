@@ -65,15 +65,15 @@
 
 #### Experience
 
-- Software Engineer (Internship)
+- Software Engineer
   - At: RiderDash
-  - Term: Jun 2020 - now
+  - Term: Jun 2020 - Aug 2021
   - Location: Samseong-dong, Seoul, South Korea
-  - What I'm doing:
-    - Developing chatbot
   - What I did:
     - Web development: Used TypeScript, React.js, Redux.js, Apollo + GraphQL
-    - Research project: Improvement of the image recognition system for car number & VIN (Vehicle Identification Number) from a given document or car image.
+    - Research projects: 
+      - Improvement of the image recognition system for car number & VIN (Vehicle Identification Number) from a given document or car image - From architecture design to publishing (using AWS) & hypothesis testing (with 95% conf)
+      - Development of the task-oriented chatbot system for sales using BERT based neural reading comprehension model
 - Research Assistant
   - At: Kookmin University Information Security Lab
   - Term: Jun 2019 - Jun 2020
