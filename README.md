@@ -87,7 +87,7 @@
 
 #### Activities / Honors and Awards
 
-- Current Overall GPA 4.48 / 4.5 (~ 2021 spring semester, 5 semesters)
+- Current Overall GPA 4.48 / 4.5 (~ 2021 fall semester, 6 semesters)
     - Major GPA 4.5 / 4.5
 - 2020  ACM-ICPC Asia Seoul Regional Contest 15th place
     - 365 teams participated nationwide, only 60 teams advanced to Regional Contest.
