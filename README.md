@@ -67,6 +67,7 @@
 
 - Visiting Researcher
   - At: University of California Irvine Bio-Inspired Architecture and Systems (BIASLab)
+  - Term: Jan 2022 - Present
 - Software Engineer
   - At: RiderDash
   - Term: Jun 2020 - Aug 2021
