@@ -4,7 +4,7 @@
   # Hi there 👋 I'm Sanggeon Yun
   **I LOVE solving challenging problems!**
   
-  Check out my [CV](https://drive.google.com/file/d/1LhoWyRC6YKXsxjudRj8PFXEN6aSUfwJE/view?usp=sharing)
+  Check out my [CV](https://c0510gy.github.io/resume/)
 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0510gy&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
