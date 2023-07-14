@@ -1,13 +1,46 @@
-
 <div align=center>
+  <h1 align="center">Hi there 👋 I'm Sanggeon Yun</h1>
+  <p align="center">
+    CS Ph.D. Student @ University of California, Irvine
+    <br />
+    <a href="https://sanggeon.com/" target="_blank">Website</a>
+    ·
+    <a href="mailto: sanggeoy@uci.edu">Email</a>
+    ·
+    <a href="https://www.linkedin.com/in/sang-geon-yun/" target="_blank">LinkedIn</a>
+    ·
+    <a href="https://sanggeon.com/resume" target="_blank">Curriculum Vitae</a>
+    ·
+    <a href="https://scholar.google.com/citations?user=Qw2sWuMAAAAJ" target="_blank">Google Scholar</a>
+    ·
+    <a href="https://codeforces.com/profile/c0510gy" target="_blank">CodeForces</a>
+    ·
+    <a href="http://boj.kr/u/ggj06281" target="_blank">BOJ</a>
+    ·
+    <a href="https://www.youtube.com/@sanggeon" target="_blank">YouTube</a>
+  </p>
   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0510gy&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  **LOVE to solve challenging problems!**
+
+  <p align="justify">
+    I’m conducting an advanced research study focused on addressing key limitations associated with neural network-based models. Specifically, my research aims to overcome challenges related to the lack of transparency, absence of commonsense reasoning, susceptibility to hardware noise, and excessive power consumption. To achieve this, I’m introducing HDC (Hyperdimensional Computing) as an innovative approach within the Bio-Inspired Architecture and Systems Lab (<a href="http://moimani.weebly.com/" target="_blank">BIASLab</a>) as a Ph.D. student of the Computer Science department at the University of California, Irvine under Professor Mohsen Imani. Through this cutting-edge research, I’m hoping to contribute in a step towards revolutionizing the field and paving the way for enhanced and more efficient computational models.
+  </p>
+  <p align="justify">
+    Also interested in competitive programming (solving problems using algorithms & data structure).
+  </p>
+</div>
+
+
+
+
+<!--
+<div align=center>
   # Hi there 👋 I'm Sanggeon Yun
   **I LOVE solving challenging problems!**
   
-  Check out my [CV](https://c0510gy.github.io/resume/)
-
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc0510gy&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  Check out my [CV](https://sanggeon.com/resume/)
   
   [![Blog Badge](https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=github&link=https://c0510gy.github.io/)](https://c0510gy.github.io/)
   [![Mail Badge](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=ggj06281@kookmin.ac.kr)](mailto:ggj06281@kookmin.ac.kr)
@@ -63,8 +96,7 @@
   ![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=Codeforces)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
 </div>
-
-<!--
+  
 #### Basic info
 
 - B.S. degree expected in Computer Science
